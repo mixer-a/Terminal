@@ -1,1 +1,1 @@
-My homeworks by terminal on course QA by Vadim Ksendzov
+My terminal homeworks on QA course by Vadim Ksendzov
